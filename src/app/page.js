@@ -214,7 +214,7 @@ export default function Home() {
           className="flex flex-col gap-1 items-center"
         >
           <button
-            className="px-3 py-2 rounded-3xl"
+            className="px-3 py-2 rounded-3xl cursor-pointer"
             style={{ backgroundColor: "#EDE1DE", color: "#ffff" }}
           >
             Receber notificaçao via email
